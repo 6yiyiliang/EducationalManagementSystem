@@ -1,4 +1,4 @@
-# 基于iavaweb的珠海科技学院教务管理系统（JAVA Web期末大作业）
+# 基于javaweb的珠海科技学院教务管理系统（JAVA Web期末大作业）
 
 这是一款 Spring Boot + MyBatis + Shiro + JSP 的Java全栈项目，偏向传统Java Web开发模式
 
