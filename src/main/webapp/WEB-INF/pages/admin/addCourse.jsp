@@ -123,7 +123,6 @@
     //查看课程号是否存在
     function checkUserid(){
         var userid=$("#userid").val();
-        // alert(userid)
 
         var allData = {
             userid:userid
