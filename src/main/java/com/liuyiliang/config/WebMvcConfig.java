@@ -16,7 +16,7 @@ import java.util.Set;
 
 @Configuration
 public class WebMvcConfig extends WebMvcConfigurerAdapter {
-    /*配置全局日期转换器*/
+    /*全局日期转换器*/
     @Bean
     @Autowired
     public ConversionService getConversionService(CustomDateConverter customDateConverter){
